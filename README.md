@@ -1,5 +1,9 @@
 # Flood Debris Classification 
-Flood Debris Classification After Heavy Rains is a machine learning project focused on solving a crucial, real-world challenge brought on by climate change: increased flooding and the accumulation of dangerous debris in urban environments. In this project, street images taken after heavy rains are automatically classified into three categories—"Safe," "Debris Present," and "Needs Immediate Cleaning"—using Convolutional Neural Networks (CNNs), a powerful tool in computer vision.
+
+Flood Debris Classification After Heavy Rains is a machine learning project focused on solving a crucial, real-world challenge brought on by climate change: increased flooding and the accumulation of dangerous debris in urban environments. In this project, street images taken after heavy rains are automatically classified into three categories "Safe," "Debris Present," and "Needs Immediate Cleaning" using Convolutional Neural Networks (CNNs), a powerful tool in computer vision.
+
 The primary goal is to provide emergency services and municipal authorities with a rapid, scalable method for assessing post-flood street conditions, allowing for quicker decisions about cleanup and resource allocation.
+
 By leveraging Python, TensorFlow/Keras, and practical data collection, this beginner-friendly solution demonstrates how artificial intelligence can strengthen disaster management, support sustainable and resilient cities, and directly impact public health and safety. 
+
 The project workflow covers dataset preparation, model development, evaluation, and deployment, making it an excellent starting point for those interested in applying AI to urgent environmental and social challenges.
